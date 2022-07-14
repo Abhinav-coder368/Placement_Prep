@@ -32,7 +32,7 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
 <br><br>
 
 ## array
-   - [array: take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2) -> less but HIGH level problems
+   - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2) -> less but HIGH level problems
    - [Bro coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM33kyoJjJbHf72Rb0G70Sae) -> starts from basics to advanced
    - [Fraz](https://youtube.com/playlist?list=PLKZaSt2df1gy2XZgwd1jhzd71CmlGFP97) 
    - [GeeksforGeeks youtube channel](https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p) 
