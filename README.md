@@ -40,8 +40,8 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
 
 ## String
    - [GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
-   - [Bro Coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM05uqfKysHKi3eA5HhK7QSy)
+   - [Bro Coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM05uqfKysHKi3eA5HhK7QSy) -> starts from basics to advanced
    - [(For JAVA coders) Pepcoding Strings, StringBuilders and Arraylists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFIKbdCKuYwsV8KaX-jHe0V)
    - [Pepcoding Arrays and Strings - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl)
-   - [String Matching Algorithms](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuEzOKhnLQIRTtI2SMtWini)
+   - [String Matching Algorithms](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuEzOKhnLQIRTtI2SMtWini) -> important string algorithms
 
