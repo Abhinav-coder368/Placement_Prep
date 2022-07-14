@@ -1,6 +1,6 @@
 # Placement_Prep
 ## IT company requirements (&#x1F4D6;) :
-Here's a broad breakdown that I feel are required for successful preparation for placements. I'll discuss each section in detail later:
+Here's a broad breakdown that I feel(based on past interview expreiences available on various plateforms) are required for successful preparation for placements. I'll discuss each section in detail later:
 - **Communication skills** -> how you speak in the interview
 - **Presentation skills** -> how you explain your previous work
 - **General Aptitude** -> aptitude tests and your approach in interview
