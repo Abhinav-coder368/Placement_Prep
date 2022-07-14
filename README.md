@@ -31,7 +31,7 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
    - [YT: Fit Coder](https://www.youtube.com/channel/UCX6rLou1VXXPVsORMVkUryg) This channel is new, but he explains nicely
   <br><br>
  ## Array
- - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2) -> less but HIGH level problems
- - [Bro coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM33kyoJjJbHf72Rb0G70Sae) -> starts from basics to advanced
- - [Fraz](https://youtube.com/playlist?list=PLKZaSt2df1gy2XZgwd1jhzd71CmlGFP97) 
- - [GeeksforGeeks youtube channel](https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p) 
+   - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2) -> less but HIGH level problems
+   - [Bro coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM33kyoJjJbHf72Rb0G70Sae) -> starts from basics to advanced
+   - [Fraz](https://youtube.com/playlist?list=PLKZaSt2df1gy2XZgwd1jhzd71CmlGFP97) 
+   - [GeeksforGeeks youtube channel](https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p) 
