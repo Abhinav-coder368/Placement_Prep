@@ -31,9 +31,18 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
    - [YT: Fit Coder](https://www.youtube.com/channel/UCX6rLou1VXXPVsORMVkUryg) This channel is new, but he explains nicely
 <br><br>
 
-## array
+## Array
    - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2) -> less but HIGH level problems
    - [Bro coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM33kyoJjJbHf72Rb0G70Sae) -> starts from basics to advanced
    - [Fraz](https://youtube.com/playlist?list=PLKZaSt2df1gy2XZgwd1jhzd71CmlGFP97) 
    - [GeeksforGeeks youtube channel](https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p) 
+<br><br>
+
+## String
+   - [GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
+   - [Bro Coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM05uqfKysHKi3eA5HhK7QSy)
+   - [(For JAVA coders) Pepcoding Strings, StringBuilders and Arraylists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFIKbdCKuYwsV8KaX-jHe0V)
+   - [Pepcoding Arrays and Strings - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl)
+   - [String Matching Algorithms](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuEzOKhnLQIRTtI2SMtWini)
+   - 
 
