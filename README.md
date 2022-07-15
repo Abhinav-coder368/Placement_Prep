@@ -40,9 +40,19 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
 <br><br>
 
 ## String
-   - [GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
+   - [GeeksforGeeks : yt](https://www.youtube.com/playlist?list=PLqM7alHXFySE_Pxx_HsUSZGwiLpv9ziWA)
    - [Bro Coders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM05uqfKysHKi3eA5HhK7QSy) -> starts from basics to advanced
    - [Pepcoding Strings, StringBuilders and Arraylists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFIKbdCKuYwsV8KaX-jHe0V) -> using JAVA
    - [Pepcoding Arrays and Strings - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl) -> using JAVA 
    - [String Matching Algorithms](https://www.youtube.com/playlist?list=PLl4Y2XuUavmuEzOKhnLQIRTtI2SMtWini) -> important string algorithms
+<br><br>
+
+## Stack and Queues
+   - [Hackerearth's Tutorial:Stack](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/) -> hackerearth's tutorials r worth reading
+   - [Hackerearth's Tutorial :Queues](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
+   - [Stack and Queue Leetcode explore card](https://leetcode.com/explore/learn/card/queue-stack/) -> best resourse to start stack and queues
+   - [Bro coders : Stack](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM2xKb0-iwePeFwzv5Yb5quo) -> basic to advanced lecture 
+   - [Bro coders : queues](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM37wIWyBxlsEKRQcLmAnO2Q)
+   - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj)
+   - [Teach dose](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
 
