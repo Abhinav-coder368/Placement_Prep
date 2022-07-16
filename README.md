@@ -58,6 +58,7 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
 <br><br>
 
 ## Recursion 
+   - [mycodeshcool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLz3g66WrxFGSXvSsvyfzCO) -> one of my favorite youtube channel for DSA
    - [Aditya Verma Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) -> Best playlist for recursion
    - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9) -> including Backtacking
    - [Bro Coders](https://www.youtube.com/playlist?list=PLjeQ9Mbojo66hM3IxI4GQhrTccjDiLGYldld) 
@@ -66,4 +67,5 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
    - [Reducible](https://www.youtube.com/watch?v=ngCos392W4w) ->he shows you recursion visually
    - [CS Dojo](https://www.youtube.com/watch?v=B0NtAFf4bvU)
    - [Utkarsh Gupta](https://www.youtube.com/watch?v=0UM_J1jE1dg&t=2479s) 
+   - [Lead coding](https://www.youtube.com/playlist?list=PLjkkQ3iH4jy82KRn9jXeFyWzvX7sqYrjE)
 
