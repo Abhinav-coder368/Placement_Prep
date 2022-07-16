@@ -48,11 +48,22 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
 <br><br>
 
 ## Stack and Queues
-   - [Hackerearth's Tutorial:Stack](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/) -> hackerearth's tutorials r worth reading
+   - [Hackerearth's Tutorial:Stack](https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/tutorial/) -> hackerearth's tutorials are worth reading
    - [Hackerearth's Tutorial :Queues](https://www.hackerearth.com/practice/data-structures/queues/basics-of-queues/tutorial/)
    - [Stack and Queue Leetcode explore card](https://leetcode.com/explore/learn/card/queue-stack/) -> best resourse to start stack and queues
    - [Bro coders : Stack](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM2xKb0-iwePeFwzv5Yb5quo) -> basic to advanced lecture 
    - [Bro coders : queues](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM37wIWyBxlsEKRQcLmAnO2Q)
    - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0oSO572kQ7KCSvCUh1AdILj)
    - [Teach dose](https://www.youtube.com/playlist?list=PLEJXowNB4kPzEvxN8ed6T13Meet7HP3h0)
+<br><br>
+
+## Recursion 
+   - [Aditya Verma Playlist](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) -> Best playlist for recursion
+   - [take U Forward](https://www.youtube.com/playlist?list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9) -> including Backtacking
+   - [Bro Coders](https://www.youtube.com/playlist?list=PLjeQ9Mbojo66hM3IxI4GQhrTccjDiLGYldld) 
+   - [Recursion 1](https://leetcode.com/explore/learn/card/recursion-i/) -> leetcode explore card 1
+   - [Recursion 2](https://leetcode.com/explore/learn/card/recursion-ii/) -> leetcode explore card 2(including backtracking)
+   - [Reducible](https://www.youtube.com/watch?v=ngCos392W4w) ->he shows you recursion visually
+   - [CS Dojo](https://www.youtube.com/watch?v=B0NtAFf4bvU)
+   - [Utkarsh Gupta](https://www.youtube.com/watch?v=0UM_J1jE1dg&t=2479s) 
 
