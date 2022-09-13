@@ -68,4 +68,8 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
    - [CS Dojo](https://www.youtube.com/watch?v=B0NtAFf4bvU)
    - [Utkarsh Gupta](https://www.youtube.com/watch?v=0UM_J1jE1dg&t=2479s) 
    - [Lead coding](https://www.youtube.com/playlist?list=PLjkkQ3iH4jy82KRn9jXeFyWzvX7sqYrjE)
+<br><br>
+
+## Hashing
+   - [Hello World playlist](https://www.youtube.com/playlist?list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS) -> best resourse to start(beginner friendly)
 
