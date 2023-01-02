@@ -73,3 +73,4 @@ Since, I used cpp, here are some of the links that will help you train DSA in cp
 ## Hashing
    - [Hello World playlist](https://www.youtube.com/playlist?list=PLzjZaW71kMwQ-D3oxCEDHAvYu8VC1XOsS) -> best resourse to start(beginner friendly)
    - [Brocoders](https://www.youtube.com/playlist?list=PLjeQ9Mb66hM24mqMtKAS_I8AFK2AznuRn) 
+   - [code explainer](https://www.youtube.com/playlist?list=PLk_DdB3uhk2DjR5S3HKHT_2pvX9SPtuDz)
